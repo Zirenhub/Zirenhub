@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zirenhub](https://github.com/Zirenhub)
+- 👨‍💻 All of my projects are available at [My repository](https://github.com/Zirenhub?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
