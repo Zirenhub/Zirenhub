@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finishing The Odin Project JavaScript path.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [My repository](https://github.com/Zirenhub?tab=repositories)
 
