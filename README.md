@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erdinch</h1>
 <h3 align="center">A passionate self-taught frontend/full stack web developer from Bulgaria.</h3>
 
-- 🔭 I’m currently working on **finishing The Odin Project JavaScript Path / SoftUni JS Web Developer Path**
+- 🔭 I’m currently working on **finishing The Odin Project JS Path / SoftUni JS Web Developer Path**
 
 - 🌱 I’m currently learning **Express**
 
